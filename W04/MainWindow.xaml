@@ -1,0 +1,10 @@
+﻿<Window x:Class="W04.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525"
+        WindowStyle="None" Background="Transparent" AllowsTransparency="True">
+    <Grid>
+        <Button Name="btnFirst" Width="200" Height="200" Click="btnFirst_Click" Margin="152,56,151,56">Hello World</Button>
+        <Button Name="btnClose" Margin="466,0,0,272" Click="btnClose_Click">X</Button>
+    </Grid>
+</Window>

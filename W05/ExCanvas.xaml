@@ -1,0 +1,15 @@
+﻿<Window x:Class="W05.ExCanvas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ExCanvas" Height="300" Width="300"
+        WindowStyle="None" Background="Transparent" AllowsTransparency="True"  >
+    <Canvas Height="50" ClipToBounds="True">
+        <StackPanel Orientation="Horizontal" Canvas.Top="-10" Canvas.Left="10">
+            <Button Width="100" Height="50" Background="DarkMagenta" Foreground="White">menu 1</Button>
+            <Button Width="100" Background="DarkMagenta" Foreground="White">menu 2</Button>
+            <Button Width="100" Background="DarkMagenta" Foreground="White">menu 3</Button>
+            <Button Width="100" Background="DarkMagenta" Foreground="White">menu 4</Button>
+        </StackPanel>
+    </Canvas>
+
+</Window>

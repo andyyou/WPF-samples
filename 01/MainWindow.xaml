@@ -1,0 +1,8 @@
+﻿<Window x:Class="_01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="400" Width="525">
+    <Grid Height="356">
+        <Button Content="點按!" Height="300" HorizontalAlignment="Left" Margin="10,14,0,0" Name="btnClick" VerticalAlignment="Top" Width="300" Click="btnClick_Click" />
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+﻿<Window x:Class="W03.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="myWPF" Height="350" Width="525">
+    <Border Height="50" Width="500" BorderBrush="Gray" BorderThickness="1" TextBlock.FontSize="18">
+        <StackPanel Background="LightGray" Orientation="Horizontal" Button.Click="CommonClickHandler" Width="500">
+            <Button Name="YesButton" Width="100">Yes</Button>
+            <Button Name="NoButton" Width="100">No</Button>
+            <Button Name="CancelButton" Width="100">Cancel</Button>
+            <TextBlock Name="txtLabel" Text="Hello World" Width="100"></TextBlock>
+        </StackPanel>
+        
+    </Border>
+    <Window.Resources>
+        <SolidColorBrush x:Key="mBrush" Color="Green" />
+    </Window.Resources>
+</Window>

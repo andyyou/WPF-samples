@@ -1,0 +1,16 @@
+c:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\B1\bin\Debug\B1.exe.manifest
+c:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\B1\bin\Debug\B1.xbap
+c:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\B1\bin\Debug\B1.exe
+c:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\B1\bin\Debug\B1.pdb
+c:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\B1\obj\Debug\Page1.baml
+c:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\B1\obj\Debug\Page1.g.cs
+c:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\B1\obj\Debug\App.g.cs
+c:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\B1\obj\Debug\B1_MarkupCompile.cache
+c:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\B1\obj\Debug\B1.g.resources
+c:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\B1\obj\Debug\B1.Properties.Resources.resources
+c:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\B1\obj\Debug\B1.csproj.GenerateResource.Cache
+c:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\B1\obj\Debug\B1.TrustInfo.xml
+c:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\B1\obj\Debug\B1.exe.manifest
+c:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\B1\obj\Debug\B1.xbap
+c:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\B1\obj\Debug\B1.exe
+c:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\B1\obj\Debug\B1.pdb

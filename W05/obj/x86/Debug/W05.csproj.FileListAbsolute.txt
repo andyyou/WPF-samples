@@ -1,0 +1,17 @@
+C:\Users\Apputu\documents\visual studio 2010\Projects\WPFPractice\W05\bin\Debug\W05.exe
+C:\Users\Apputu\documents\visual studio 2010\Projects\WPFPractice\W05\bin\Debug\W05.pdb
+C:\Users\Apputu\documents\visual studio 2010\Projects\WPFPractice\W05\obj\x86\Debug\MainWindow.baml
+C:\Users\Apputu\documents\visual studio 2010\Projects\WPFPractice\W05\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Apputu\documents\visual studio 2010\Projects\WPFPractice\W05\obj\x86\Debug\App.g.cs
+C:\Users\Apputu\documents\visual studio 2010\Projects\WPFPractice\W05\obj\x86\Debug\W05_MarkupCompile.cache
+C:\Users\Apputu\documents\visual studio 2010\Projects\WPFPractice\W05\obj\x86\Debug\W05.g.resources
+C:\Users\Apputu\documents\visual studio 2010\Projects\WPFPractice\W05\obj\x86\Debug\W05.Properties.Resources.resources
+C:\Users\Apputu\documents\visual studio 2010\Projects\WPFPractice\W05\obj\x86\Debug\W05.csproj.GenerateResource.Cache
+C:\Users\Apputu\documents\visual studio 2010\Projects\WPFPractice\W05\obj\x86\Debug\W05.exe
+C:\Users\Apputu\documents\visual studio 2010\Projects\WPFPractice\W05\obj\x86\Debug\W05.pdb
+C:\Users\Apputu\documents\visual studio 2010\Projects\WPFPractice\W05\obj\x86\Debug\ExCanvas.baml
+C:\Users\Apputu\documents\visual studio 2010\Projects\WPFPractice\W05\obj\x86\Debug\ExGrid.baml
+C:\Users\Apputu\documents\visual studio 2010\Projects\WPFPractice\W05\obj\x86\Debug\ExCanvas.g.cs
+C:\Users\Apputu\documents\visual studio 2010\Projects\WPFPractice\W05\obj\x86\Debug\ExGrid.g.cs
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W05\obj\x86\Debug\ExDockPanel.baml
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W05\obj\x86\Debug\ExDockPanel.g.cs

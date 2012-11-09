@@ -1,0 +1,11 @@
+c:\users\apputu\documents\visual studio 2010\Projects\WPFPractice\W02\obj\x86\Debug\App.g.cs
+c:\users\apputu\documents\visual studio 2010\Projects\WPFPractice\W02\obj\x86\Debug\W02_MarkupCompile.cache
+c:\users\apputu\documents\visual studio 2010\Projects\WPFPractice\W02\obj\x86\Debug\W02.g.resources
+c:\users\apputu\documents\visual studio 2010\Projects\WPFPractice\W02\obj\x86\Debug\W02.Properties.Resources.resources
+c:\users\apputu\documents\visual studio 2010\Projects\WPFPractice\W02\obj\x86\Debug\W02.csproj.GenerateResource.Cache
+c:\users\apputu\documents\visual studio 2010\Projects\WPFPractice\W02\obj\x86\Debug\Page01.baml
+c:\users\apputu\documents\visual studio 2010\Projects\WPFPractice\W02\obj\x86\Debug\Page01.g.cs
+c:\users\apputu\documents\visual studio 2010\Projects\WPFPractice\W02\bin\Debug\W02.exe
+c:\users\apputu\documents\visual studio 2010\Projects\WPFPractice\W02\bin\Debug\W02.pdb
+c:\users\apputu\documents\visual studio 2010\Projects\WPFPractice\W02\obj\x86\Debug\W02.exe
+c:\users\apputu\documents\visual studio 2010\Projects\WPFPractice\W02\obj\x86\Debug\W02.pdb

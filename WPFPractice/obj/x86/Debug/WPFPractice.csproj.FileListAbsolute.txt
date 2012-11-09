@@ -1,0 +1,6 @@
+c:\users\apputu\documents\visual studio 2010\Projects\WPFPractice\WPFPractice\obj\x86\Debug\WPFPractice.Properties.Resources.resources
+c:\users\apputu\documents\visual studio 2010\Projects\WPFPractice\WPFPractice\obj\x86\Debug\WPFPractice.csproj.GenerateResource.Cache
+c:\users\apputu\documents\visual studio 2010\Projects\WPFPractice\WPFPractice\bin\Debug\WPFPractice.exe
+c:\users\apputu\documents\visual studio 2010\Projects\WPFPractice\WPFPractice\bin\Debug\WPFPractice.pdb
+c:\users\apputu\documents\visual studio 2010\Projects\WPFPractice\WPFPractice\obj\x86\Debug\WPFPractice.exe
+c:\users\apputu\documents\visual studio 2010\Projects\WPFPractice\WPFPractice\obj\x86\Debug\WPFPractice.pdb

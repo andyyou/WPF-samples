@@ -1,0 +1,84 @@
+﻿<Page x:Class="W02.Page01"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="600"
+	Title="Page">
+    <Page.Resources>
+        <SolidColorBrush x:Key="mBrush" Color="Green" />
+        <Style TargetType="TextBlock">
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="FontFamily" Value="Meiryo" />
+            <Setter Property="FontSize" Value="30" />
+            <Setter Property="Foreground">
+                <Setter.Value>
+                    <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">
+                        <GradientStop Offset="0.0" Color="Red" />
+                        <GradientStop Offset="1.0" Color="Yellow" />
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="FontSize" Value="20"></Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="OverridesDefaultStyle" Value="True" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <Ellipse Fill="Lime" />
+                            <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <XmlDataProvider x:Key="mPhotos">
+            <x:XData>
+                <Inventory xmlns="">
+                    <Photos>
+                        <Photo>
+                            <Title>CityNight</Title>
+                            <FileName>Media/CityNight.jpg</FileName>
+                        </Photo>
+                        <Photo>
+                            <Title>CityMorning</Title>
+                            <FileName>Media/CityMorning.jpg</FileName>
+                        </Photo>
+                    </Photos>
+                </Inventory>
+            </x:XData>
+        </XmlDataProvider>
+        <DataTemplate x:Key="PhotoTemplate">
+            <StackPanel Orientation="Vertical">
+                <TextBlock FontSize="10" Foreground="Green"
+                           Text="{Binding XPath=Title}"/>
+                <Image Source="{Binding XPath=FileName}" Width="200" />
+            </StackPanel>
+        </DataTemplate>
+    </Page.Resources>
+    <ScrollViewer >
+
+        <StackPanel Width="600" Height="800" Orientation="Vertical" Margin="35" >
+        <StackPanel.ScrollOwner>
+            <ScrollViewer CanContentScroll="True" />
+        </StackPanel.ScrollOwner>
+        <Label>請輸入您的稱呼:</Label>
+        <TextBox x:Name="MyInput"></TextBox>
+        <Label>您的稱呼是:</Label>
+        <TextBlock Text="{Binding ElementName=MyInput, Path=Text}" Margin="30"  /> 
+        <Button Width="200" Height="100" Content="按鈕" />
+        <ListBox ItemsSource="{Binding Source={StaticResource mPhotos}, XPath=/Inventory/Photos/Photo}"
+                 ItemTemplate="{StaticResource PhotoTemplate}"
+                 Background="Silver" Width="400" Height="400" Margin="10"
+                 />
+    </StackPanel>
+    </ScrollViewer>
+</Page>

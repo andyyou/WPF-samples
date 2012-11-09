@@ -1,0 +1,18 @@
+﻿<Window x:Class="W05.ExStackPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ExStackPanel" Height="240" Width="420">
+    <DockPanel Width="400" Height="200">
+        <StackPanel Orientation="Vertical" DockPanel.Dock="Right">
+            <Button Content="Vertical #1" />
+            <Button Content="Vertical #2" />
+            <Button Content="Vertical #3" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Button Content="Horizontal #1" />
+            <Button Content="Horizontal #2" />
+            <Button Content="Horizontal #3" />
+        </StackPanel>
+    </DockPanel>
+    
+</Window>

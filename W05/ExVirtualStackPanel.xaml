@@ -1,0 +1,20 @@
+﻿<Window x:Class="W05.ExVirtualStackPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ExVirtualStackPanel" Height="200" Width="200">
+    <StackPanel Orientation="Vertical" VirtualizingStackPanel.IsVirtualizing="True">
+        <!-- VirtualizingStackPanel.IsVirtualizing="True" 不顯示就不跑提升效能 -->
+        <Button Content="Vertical #1" />
+        <Button Content="Vertical #2" />
+        <Button Content="Vertical #3" />
+        <Button Content="Vertical #4" />
+        <Button Content="Vertical #5" />
+        <Button Content="Vertical #6" />
+        <Button Content="Vertical #7" />
+        <Button Content="Vertical #8" />
+        <Button Content="Vertical #9" />
+        <Button Content="Vertical #10" />
+     
+        
+    </StackPanel>
+</Window>
