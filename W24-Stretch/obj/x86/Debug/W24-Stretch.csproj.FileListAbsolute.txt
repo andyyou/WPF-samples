@@ -1,0 +1,11 @@
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W24-Stretch\bin\Debug\W24-Stretch.exe
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W24-Stretch\bin\Debug\W24-Stretch.pdb
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W24-Stretch\obj\x86\Debug\MainWindow.baml
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W24-Stretch\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W24-Stretch\obj\x86\Debug\App.g.cs
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W24-Stretch\obj\x86\Debug\W24-Stretch_MarkupCompile.cache
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W24-Stretch\obj\x86\Debug\W24-Stretch.g.resources
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W24-Stretch\obj\x86\Debug\W24_Stretch.Properties.Resources.resources
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W24-Stretch\obj\x86\Debug\W24-Stretch.csproj.GenerateResource.Cache
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W24-Stretch\obj\x86\Debug\W24-Stretch.exe
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W24-Stretch\obj\x86\Debug\W24-Stretch.pdb

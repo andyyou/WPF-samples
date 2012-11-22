@@ -1,0 +1,36 @@
+﻿<Window x:Class="W06_Alignment.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Border Padding="20" Background="Yellow" BorderBrush="Black" BorderThickness="2" Width="400" Height="250">
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Top" Background="White">
+        <TextBlock Margin="5,0,5,0" HorizontalAlignment="Center">#0 Border Padding = '20'</TextBlock>
+        <TextBlock Margin="5,0,5,0" HorizontalAlignment="Left">
+            #1 HorizontalAlignment= 'Left'
+        </TextBlock>
+        <!--
+         WPF的Window 不能直接用Zindex布局 解決辦法
+         http://stackoverflow.com/questions/3473016/how-to-sort-windows-by-z-index
+        -->
+        <Button HorizontalAlignment="left" Margin="10" Content="Button #1" >
+            <!--變化角度-->
+                <Button.RenderTransform>
+                    <RotateTransform CenterX="25" CenterY="25" Angle="45" />
+                </Button.RenderTransform>
+             
+            </Button>
+        <TextBlock Margin="5,0,5,0" HorizontalAlignment="Left">
+            #2 HorizontalAlignment = 'Left' Margin = '20'
+        </TextBlock>
+        <Button HorizontalAlignment="Right" Margin="20">Button #2
+                <Button.LayoutTransform>
+                    <RotateTransform CenterX="25" CenterY="25" Angle="45" />
+                </Button.LayoutTransform>
+            </Button>
+        <TextBlock Margin="5,0,5,10" HorizontalAlignment="Stretch">
+            #3 HorizontalAlignment='Stretch' Margin='-10'
+        </TextBlock>
+        <Button HorizontalAlignment="Stretch" Margin="-10" Opacity="0" Click="Button_Click">Button #3</Button>
+    </StackPanel>
+    </Border>
+</Window>

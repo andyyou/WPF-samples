@@ -1,0 +1,48 @@
+﻿<Window x:Class="W08_Communications.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MyMessage" Height="500" Width="500">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="100" />
+            <RowDefinition Height="30" />
+        </Grid.RowDefinitions>
+        <WrapPanel Grid.Row="0" Background="Yellow">
+            <Menu Background="Yellow">
+                <MenuItem Header="檔案" />
+                <MenuItem Header="通訊錄" />
+                <MenuItem Header="動作" />
+                <MenuItem Header="工具" />
+                <MenuItem Header="說明" />
+            </Menu>
+        </WrapPanel>
+        <WrapPanel Grid.Row="1" Background="Orange" Orientation="Horizontal">
+            <Button Content="邀請" Margin="10" Width="100" Visibility="Hidden" />
+            <Button Content="傳送檔案" Margin="10" Width="100" />
+            <Button Content="攝影機" Margin="10" Width="100" />
+            <Button Content="語音" Margin="10" Width="100" />
+        </WrapPanel>
+        <Label Grid.Row="2" Background="LightBlue" >Takahashi@Microsoft.com</Label>
+        
+        <Border Grid.Row="3" Background="Lime">
+        <ListBox Grid.Row="3" Margin="20" DockPanel.Dock="Left" HorizontalAlignment="Stretch">
+            <ListBoxItem>Takahashi: 川西您好,原稿進展如何?</ListBoxItem>
+        </ListBox>
+        </Border>
+        <Grid Grid.Row="4" Background="Red">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <TextBox Grid.Column="0" Margin="20" Foreground="Blue" Background="White" TextWrapping="Wrap">
+                差不多完成一半了
+            </TextBox>
+            <Button Grid.Column="1" Content="傳送" Margin="20" />
+        </Grid>
+        <Label Grid.Row="5" Background="Gray">Status Bar</Label>
+    </Grid>
+</Window>

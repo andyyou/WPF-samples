@@ -1,0 +1,11 @@
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W06-Alignment\bin\Debug\W06-Alignment.exe
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W06-Alignment\bin\Debug\W06-Alignment.pdb
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W06-Alignment\obj\x86\Debug\MainWindow.baml
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W06-Alignment\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W06-Alignment\obj\x86\Debug\App.g.cs
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W06-Alignment\obj\x86\Debug\W06-Alignment_MarkupCompile.cache
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W06-Alignment\obj\x86\Debug\W06-Alignment.g.resources
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W06-Alignment\obj\x86\Debug\W06_Alignment.Properties.Resources.resources
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W06-Alignment\obj\x86\Debug\W06-Alignment.csproj.GenerateResource.Cache
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W06-Alignment\obj\x86\Debug\W06-Alignment.exe
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W06-Alignment\obj\x86\Debug\W06-Alignment.pdb

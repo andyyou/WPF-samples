@@ -1,0 +1,11 @@
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W07-Visibility\bin\Debug\W07-Visibility.exe
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W07-Visibility\bin\Debug\W07-Visibility.pdb
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W07-Visibility\obj\x86\Debug\MainWindow.baml
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W07-Visibility\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W07-Visibility\obj\x86\Debug\App.g.cs
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W07-Visibility\obj\x86\Debug\W07-Visibility_MarkupCompile.cache
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W07-Visibility\obj\x86\Debug\W07-Visibility.g.resources
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W07-Visibility\obj\x86\Debug\W07_Visibility.Properties.Resources.resources
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W07-Visibility\obj\x86\Debug\W07-Visibility.csproj.GenerateResource.Cache
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W07-Visibility\obj\x86\Debug\W07-Visibility.exe
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W07-Visibility\obj\x86\Debug\W07-Visibility.pdb

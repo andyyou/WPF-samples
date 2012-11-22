@@ -1,0 +1,11 @@
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W21-Bindding\bin\Debug\W21-Bindding.exe
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W21-Bindding\bin\Debug\W21-Bindding.pdb
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W21-Bindding\obj\x86\Debug\MainWindow.baml
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W21-Bindding\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W21-Bindding\obj\x86\Debug\App.g.cs
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W21-Bindding\obj\x86\Debug\W21-Bindding_MarkupCompile.cache
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W21-Bindding\obj\x86\Debug\W21-Bindding.g.resources
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W21-Bindding\obj\x86\Debug\W21_Bindding.Properties.Resources.resources
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W21-Bindding\obj\x86\Debug\W21-DataBindding.csproj.GenerateResource.Cache
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W21-Bindding\obj\x86\Debug\W21-Bindding.exe
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W21-Bindding\obj\x86\Debug\W21-Bindding.pdb

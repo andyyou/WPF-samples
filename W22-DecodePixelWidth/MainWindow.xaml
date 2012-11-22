@@ -1,0 +1,14 @@
+﻿<Window x:Class="W22_DecodePixelWidth.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel Orientation="Horizontal">
+        <Image Source="Images/CityMorning.jpg" Margin="20" Width="300" />
+        <Image Width="100">
+            <Image.Source>
+                <BitmapImage DecodePixelWidth="100" UriSource="Images/CityMorning.jpg" />
+            </Image.Source>
+        </Image>
+
+    </StackPanel>
+</Window>

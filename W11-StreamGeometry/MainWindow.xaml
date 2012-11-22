@@ -1,0 +1,6 @@
+﻿<Window x:Class="W11_StreamGeometry.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Path Data="M 0,0 L 0,300 400, 300 400, 0 z" Fill="Red" Stroke="Black" StrokeThickness="4" />
+</Window>

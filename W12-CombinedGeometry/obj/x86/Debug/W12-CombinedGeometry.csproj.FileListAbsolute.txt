@@ -1,0 +1,11 @@
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W12-CombinedGeometry\bin\Debug\W12-CombinedGeometry.exe
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W12-CombinedGeometry\bin\Debug\W12-CombinedGeometry.pdb
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W12-CombinedGeometry\obj\x86\Debug\MainWindow.baml
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W12-CombinedGeometry\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W12-CombinedGeometry\obj\x86\Debug\App.g.cs
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W12-CombinedGeometry\obj\x86\Debug\W12-CombinedGeometry_MarkupCompile.cache
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W12-CombinedGeometry\obj\x86\Debug\W12-CombinedGeometry.g.resources
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W12-CombinedGeometry\obj\x86\Debug\W12_CombinedGeometry.Properties.Resources.resources
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W12-CombinedGeometry\obj\x86\Debug\W12-CombinedGeometry.csproj.GenerateResource.Cache
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W12-CombinedGeometry\obj\x86\Debug\W12-CombinedGeometry.exe
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W12-CombinedGeometry\obj\x86\Debug\W12-CombinedGeometry.pdb

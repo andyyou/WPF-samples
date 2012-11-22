@@ -1,0 +1,11 @@
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W19-Mask\bin\Debug\W19-Mask.exe
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W19-Mask\bin\Debug\W19-Mask.pdb
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W19-Mask\obj\x86\Debug\MainWindow.baml
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W19-Mask\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W19-Mask\obj\x86\Debug\App.g.cs
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W19-Mask\obj\x86\Debug\W19-Mask_MarkupCompile.cache
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W19-Mask\obj\x86\Debug\W19-Mask.g.resources
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W19-Mask\obj\x86\Debug\W19_Mask.Properties.Resources.resources
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W19-Mask\obj\x86\Debug\W19-Mask.csproj.GenerateResource.Cache
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W19-Mask\obj\x86\Debug\W19-Mask.exe
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W19-Mask\obj\x86\Debug\W19-Mask.pdb

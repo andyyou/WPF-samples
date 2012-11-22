@@ -1,0 +1,11 @@
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W17-VisualBrush\bin\Debug\W17-VisualBrush.exe
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W17-VisualBrush\bin\Debug\W17-VisualBrush.pdb
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W17-VisualBrush\obj\x86\Debug\MainWindow.baml
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W17-VisualBrush\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W17-VisualBrush\obj\x86\Debug\App.g.cs
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W17-VisualBrush\obj\x86\Debug\W17-VisualBrush_MarkupCompile.cache
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W17-VisualBrush\obj\x86\Debug\W17-VisualBrush.g.resources
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W17-VisualBrush\obj\x86\Debug\W17_VisualBrush.Properties.Resources.resources
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W17-VisualBrush\obj\x86\Debug\W17-VisualBrush.csproj.GenerateResource.Cache
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W17-VisualBrush\obj\x86\Debug\W17-VisualBrush.exe
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W17-VisualBrush\obj\x86\Debug\W17-VisualBrush.pdb

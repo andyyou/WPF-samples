@@ -1,0 +1,35 @@
+﻿<Window x:Class="W17_VisualBrush.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="900" Width="525">
+    <StackPanel Margin="20">
+    <Ellipse Width="400" Height="300" Stroke="Black" StrokeThickness="4" Name="mEllipse">
+        <Ellipse.Fill>
+            <DrawingBrush>
+                <DrawingBrush.Drawing>
+                    <ImageDrawing ImageSource="Media/CityMorning.jpg" Rect="50,50,5,10" />
+                </DrawingBrush.Drawing>
+            </DrawingBrush>
+        </Ellipse.Fill>
+    </Ellipse>
+        <Rectangle Height="300" Width="400">
+            <Rectangle.Fill>
+                <VisualBrush Opacity="0.5" Stretch="None" Visual="{Binding ElementName=mEllipse}">
+                    <VisualBrush.RelativeTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1" ScaleY="-1" />
+                            <TranslateTransform Y="1" />
+                        </TransformGroup>
+                    </VisualBrush.RelativeTransform>
+                </VisualBrush>
+            </Rectangle.Fill>
+            <Rectangle.OpacityMask>
+                <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">
+                    <GradientStop Color="#FF000000" Offset="0.0" />
+                    <GradientStop Color="#33000000" Offset="0.5" />
+                    <GradientStop Color="#00000000" Offset="0.75" />
+                </LinearGradientBrush>
+            </Rectangle.OpacityMask>
+        </Rectangle>
+    </StackPanel>
+</Window>

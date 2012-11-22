@@ -1,0 +1,11 @@
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W11-StreamGeometry\bin\Debug\W11-StreamGeometry.exe
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W11-StreamGeometry\bin\Debug\W11-StreamGeometry.pdb
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W11-StreamGeometry\obj\x86\Debug\MainWindow.baml
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W11-StreamGeometry\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W11-StreamGeometry\obj\x86\Debug\App.g.cs
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W11-StreamGeometry\obj\x86\Debug\W11-StreamGeometry_MarkupCompile.cache
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W11-StreamGeometry\obj\x86\Debug\W11-StreamGeometry.g.resources
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W11-StreamGeometry\obj\x86\Debug\W11_StreamGeometry.Properties.Resources.resources
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W11-StreamGeometry\obj\x86\Debug\W11-StreamGeometry.csproj.GenerateResource.Cache
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W11-StreamGeometry\obj\x86\Debug\W11-StreamGeometry.exe
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W11-StreamGeometry\obj\x86\Debug\W11-StreamGeometry.pdb

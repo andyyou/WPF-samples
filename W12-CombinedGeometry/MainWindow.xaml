@@ -1,0 +1,17 @@
+﻿<Window x:Class="W12_CombinedGeometry.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Path Fill="Red" Stroke="Black" StrokeThickness="4">
+        <Path.Data>
+            <CombinedGeometry GeometryCombineMode="Xor">
+                <CombinedGeometry.Geometry1>
+                    <EllipseGeometry RadiusX="50" RadiusY="50" Center="75,75" />
+                </CombinedGeometry.Geometry1>
+                <CombinedGeometry.Geometry2>
+                    <EllipseGeometry RadiusX="50" RadiusY="50" Center="125, 75" />
+                </CombinedGeometry.Geometry2>
+            </CombinedGeometry>
+        </Path.Data>
+    </Path>
+</Window>

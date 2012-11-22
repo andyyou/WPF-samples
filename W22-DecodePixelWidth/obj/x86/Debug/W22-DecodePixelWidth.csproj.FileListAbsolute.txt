@@ -1,0 +1,11 @@
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W22-DecodePixelWidth\bin\Debug\W22-DecodePixelWidth.exe
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W22-DecodePixelWidth\bin\Debug\W22-DecodePixelWidth.pdb
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W22-DecodePixelWidth\obj\x86\Debug\MainWindow.baml
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W22-DecodePixelWidth\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W22-DecodePixelWidth\obj\x86\Debug\App.g.cs
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W22-DecodePixelWidth\obj\x86\Debug\W22-DecodePixelWidth_MarkupCompile.cache
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W22-DecodePixelWidth\obj\x86\Debug\W22-DecodePixelWidth.g.resources
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W22-DecodePixelWidth\obj\x86\Debug\W22_DecodePixelWidth.Properties.Resources.resources
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W22-DecodePixelWidth\obj\x86\Debug\W22-DecodePixelWidth.csproj.GenerateResource.Cache
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W22-DecodePixelWidth\obj\x86\Debug\W22-DecodePixelWidth.exe
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W22-DecodePixelWidth\obj\x86\Debug\W22-DecodePixelWidth.pdb

@@ -1,0 +1,12 @@
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W27-wmv\bin\Debug\W27-wmv.exe
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W27-wmv\bin\Debug\W27-wmv.pdb
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W27-wmv\obj\x86\Debug\MainWindow.baml
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W27-wmv\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W27-wmv\obj\x86\Debug\App.g.cs
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W27-wmv\obj\x86\Debug\W27-wmv_MarkupCompile.cache
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W27-wmv\obj\x86\Debug\W27-wmv.g.resources
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W27-wmv\obj\x86\Debug\W27_wmv.Properties.Resources.resources
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W27-wmv\obj\x86\Debug\W27-wmv.csproj.GenerateResource.Cache
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W27-wmv\obj\x86\Debug\W27-wmv.exe
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W27-wmv\obj\x86\Debug\W27-wmv.pdb
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W27-wmv\obj\x86\Debug\W27-wmv_Content.g.cs
