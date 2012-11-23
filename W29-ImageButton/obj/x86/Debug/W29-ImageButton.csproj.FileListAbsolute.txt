@@ -16,3 +16,4 @@ C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W29-ImageButto
 C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W29-ImageButton\bin\Debug\Caliburn.Micro.pdb
 C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W29-ImageButton\bin\Debug\Caliburn.Micro.xml
 C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W29-ImageButton\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Apputu\Documents\Visual Studio 2010\Projects\WPFPractice\W29-ImageButton\obj\x86\Debug\W29-ImageButton.csprojResolveAssemblyReference.cache

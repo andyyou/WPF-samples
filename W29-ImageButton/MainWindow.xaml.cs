@@ -31,6 +31,11 @@ namespace W29_ImageButton
             this.DataContext = data;
 
         }
+
+        private void btn1_Click(object sender, RoutedEventArgs e)
+        {
+           
+        }
     }
     public class DataItem
     {

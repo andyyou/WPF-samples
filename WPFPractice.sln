@@ -63,6 +63,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W28-Resource", "W28-Resourc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W29-ImageButton", "W29-ImageButton\W29-ImageButton.csproj", "{EEE36C82-A0B5-4528-95DE-716FEA0AD230}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W30-Listview", "W30-Listview\W30-Listview.csproj", "{64178AE2-4AC0-496C-9BE7-DF45EFD0A050}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W31-ListViewCustomView", "..\..\..\..\..\..\Github\ListViewCustomView\ListViewCustomView\cs\W31-ListViewCustomView.csproj", "{C524FA53-E886-4EF6-9055-1184F548DB8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -383,6 +387,26 @@ Global
 		{EEE36C82-A0B5-4528-95DE-716FEA0AD230}.Release|Mixed Platforms.Build.0 = Release|x86
 		{EEE36C82-A0B5-4528-95DE-716FEA0AD230}.Release|x86.ActiveCfg = Release|x86
 		{EEE36C82-A0B5-4528-95DE-716FEA0AD230}.Release|x86.Build.0 = Release|x86
+		{64178AE2-4AC0-496C-9BE7-DF45EFD0A050}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{64178AE2-4AC0-496C-9BE7-DF45EFD0A050}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{64178AE2-4AC0-496C-9BE7-DF45EFD0A050}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{64178AE2-4AC0-496C-9BE7-DF45EFD0A050}.Debug|x86.ActiveCfg = Debug|x86
+		{64178AE2-4AC0-496C-9BE7-DF45EFD0A050}.Debug|x86.Build.0 = Debug|x86
+		{64178AE2-4AC0-496C-9BE7-DF45EFD0A050}.Release|Any CPU.ActiveCfg = Release|x86
+		{64178AE2-4AC0-496C-9BE7-DF45EFD0A050}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{64178AE2-4AC0-496C-9BE7-DF45EFD0A050}.Release|Mixed Platforms.Build.0 = Release|x86
+		{64178AE2-4AC0-496C-9BE7-DF45EFD0A050}.Release|x86.ActiveCfg = Release|x86
+		{64178AE2-4AC0-496C-9BE7-DF45EFD0A050}.Release|x86.Build.0 = Release|x86
+		{C524FA53-E886-4EF6-9055-1184F548DB8E}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{C524FA53-E886-4EF6-9055-1184F548DB8E}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{C524FA53-E886-4EF6-9055-1184F548DB8E}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{C524FA53-E886-4EF6-9055-1184F548DB8E}.Debug|x86.ActiveCfg = Debug|x86
+		{C524FA53-E886-4EF6-9055-1184F548DB8E}.Debug|x86.Build.0 = Debug|x86
+		{C524FA53-E886-4EF6-9055-1184F548DB8E}.Release|Any CPU.ActiveCfg = Release|x86
+		{C524FA53-E886-4EF6-9055-1184F548DB8E}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{C524FA53-E886-4EF6-9055-1184F548DB8E}.Release|Mixed Platforms.Build.0 = Release|x86
+		{C524FA53-E886-4EF6-9055-1184F548DB8E}.Release|x86.ActiveCfg = Release|x86
+		{C524FA53-E886-4EF6-9055-1184F548DB8E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

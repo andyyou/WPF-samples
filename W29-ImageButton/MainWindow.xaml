@@ -74,8 +74,7 @@
                 Margin="12,12,716,499"
                 Content="{StaticResource appbar_eye}" 
                 Style="{DynamicResource MetroCircleButtonStyle}" 
-                FontFamily="Microsoft JhengHei" 
-                />
+                FontFamily="Microsoft JhengHei" Click="btn1_Click" />
         <Button Name="btn2"
                 Width="50" 
                 Height="50"
