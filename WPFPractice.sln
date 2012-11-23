@@ -65,7 +65,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W29-ImageButton", "W29-Imag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W30-Listview", "W30-Listview\W30-Listview.csproj", "{64178AE2-4AC0-496C-9BE7-DF45EFD0A050}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W31-ListViewCustomView", "..\..\..\..\..\..\Github\ListViewCustomView\ListViewCustomView\cs\W31-ListViewCustomView.csproj", "{C524FA53-E886-4EF6-9055-1184F548DB8E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W31-ListViewCustomView", "W31-ListviewCustomView\W31-ListViewCustomView.csproj", "{C524FA53-E886-4EF6-9055-1184F548DB8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

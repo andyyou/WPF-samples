@@ -1,0 +1,12 @@
+C:\Github\ListViewCustomView\ListViewCustomView\cs\bin\Debug\ListViewCustomView.exe
+C:\Github\ListViewCustomView\ListViewCustomView\cs\bin\Debug\ListViewCustomView.pdb
+C:\Github\ListViewCustomView\ListViewCustomView\cs\obj\x86\Debug\MainWindow.g.cs
+C:\Github\ListViewCustomView\ListViewCustomView\cs\obj\x86\Debug\App.g.cs
+C:\Github\ListViewCustomView\ListViewCustomView\cs\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Github\ListViewCustomView\ListViewCustomView\cs\obj\x86\Debug\ListViewCustomView_MarkupCompile.cache
+C:\Github\ListViewCustomView\ListViewCustomView\cs\obj\x86\Debug\ListViewCustomView_MarkupCompile.lref
+C:\Github\ListViewCustomView\ListViewCustomView\cs\obj\x86\Debug\MainWindow.baml
+C:\Github\ListViewCustomView\ListViewCustomView\cs\obj\x86\Debug\themes\Generic.baml
+C:\Github\ListViewCustomView\ListViewCustomView\cs\obj\x86\Debug\ListViewCustomView.g.resources
+C:\Github\ListViewCustomView\ListViewCustomView\cs\obj\x86\Debug\ListViewCustomView.exe
+C:\Github\ListViewCustomView\ListViewCustomView\cs\obj\x86\Debug\ListViewCustomView.pdb
