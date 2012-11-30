@@ -1,0 +1,43 @@
+﻿<Window x:Class="W32_Breadcrumb.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <ListView DockPanel.Dock="Left" ItemsSource="{Binding TagList}"
+                MinWidth="300" Background="Transparent" BorderThickness="0"
+                ScrollViewer.HorizontalScrollBarVisibility="Hidden" 
+                ScrollViewer.VerticalScrollBarVisibility="Hidden" Margin="8,0,0,0">
+
+            <ListView.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <StackPanel Orientation="Horizontal"></StackPanel>
+                </ItemsPanelTemplate>
+            </ListView.ItemsPanel>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Margin="-8,0,0,0">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="8"/>
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="8"/>
+                            </Grid.ColumnDefinitions>
+                            <Path Stretch="Fill" StrokeLineJoin="Round" Stroke="#FF000000" Fill="#FFC64242" Data="F1 M 112,144L 104,144L 112,160L 104,176L 112,176" HorizontalAlignment="Stretch" Height="Auto" VerticalAlignment="Stretch" Width="Auto"/>
+                            <Grid HorizontalAlignment="Stretch" Height="Auto" VerticalAlignment="Stretch" Width="Auto" Grid.Column="1">
+                                <Rectangle Stretch="Fill" Fill="#FFC64242" HorizontalAlignment="Stretch" Height="Auto" Margin="0.5" VerticalAlignment="Stretch" Width="Auto"/>
+                                <Path Stretch="Fill" StrokeLineJoin="Round" Stroke="#FF000000" Data="F1 M 128,144L 160,144" HorizontalAlignment="Stretch" Height="1" Margin="0" VerticalAlignment="Top" Width="Auto"/>
+                                <Path Stretch="Fill" StrokeLineJoin="Round" Stroke="#FF000000" Data="F1 M 128,176L 160,176" HorizontalAlignment="Stretch" Height="1" Margin="0" VerticalAlignment="Bottom" Width="Auto"/>
+                            </Grid>
+                            <Path Stretch="Fill" StrokeLineJoin="Round" Stroke="#FF000000" Fill="#FFC64242" Data="F1 M 168,144L 176,160L 168,176" Height="Auto" VerticalAlignment="Center" Width="8" HorizontalAlignment="Right" Grid.Column="2" d:LayoutOverrides="GridBox"/>
+                            <DockPanel LastChildFill="True" Grid.ColumnSpan="2" Grid.Column="1">
+                                <Label DockPanel.Dock="Left"  FontSize="12" Content="{Binding Content, FallbackValue=Tagname n/a}" HorizontalAlignment="Left" Grid.Column="0" VerticalAlignment="Center" d:LayoutOverrides="Height" Margin="8,0"/>
+                                <Button DockPanel.Dock="Right" Content="X" Background="Transparent" FontSize="12" Command="{Binding RemoveTagBtn}" Grid.Column="0" Width="13.077" d:LayoutOverrides="Height" VerticalAlignment="Center" Margin="0,0,8,0"/>
+                                <!--<Border Background="#FFf7f7f7" BorderBrush="#FFc9c9c9" BorderThickness="1" CornerRadius="4" HorizontalAlignment="Left" Margin="0,0,0,5.96" d:LayoutOverrides="Height"/>     -->
+                            </DockPanel>
+                        </Grid>
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</Window>

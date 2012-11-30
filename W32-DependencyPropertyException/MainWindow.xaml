@@ -1,0 +1,10 @@
+﻿<Window x:Class="W32_DependencyPropertyException.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525"
+        x:Name="mm">
+    <Grid>
+        <Label Content="{Binding Path=TestValue, ElementName=mm}" Height="28" HorizontalAlignment="Left" Margin="30,21,0,0" Name="lbTest" VerticalAlignment="Top" />
+        <Button Content="Change DependencyProperty" Height="23" HorizontalAlignment="Left" Margin="30,65,0,0" Name="button1" VerticalAlignment="Top" Width="224" Click="button1_Click" />
+    </Grid>
+</Window>
